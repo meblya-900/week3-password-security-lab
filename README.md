@@ -43,7 +43,7 @@ The objective of this lab was to understand password attacks, password hashing, 
 .
 ├── Report/
 │   ├── Week3_Penetration_Testing_Report.pdf
-│   └── Week3_Penetration_Testing_Report.docx
+│   
 │
 ├── Screenshots/
 │   ├── Task1/
